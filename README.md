@@ -1,6 +1,6 @@
 # Welcome to [mguruprasath](https://github.com/mguruprasath/) profile! <a href="https://github.com/Hirthick6/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://i.gifer.com/Ozf.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://i.gifer.com/JXA0.gif" height=15% width=40% align="right">
 
 * Future Developer
 * Deep Learning in Medical Image Processing and Analysis Paper Author
